@@ -1,4 +1,4 @@
-## **Analysis - Olist Store Brazil**
+# **Analysis - Olist Store Brazil**
 **Code:** [Olist Store Analysis.sql](https://github.com/Mubadiul/Data-Analyst-Portfolio/blob/main/olist_store_analysis.sql)
 
 This project focuses on analyzing e-commerce transaction data using SQL to gain business insights. The distribution of payment methods, total revenue, and the number of orders per seller are examined to understand transaction patterns. Customer and product rankings based on transaction volume are identified, followed by calculations of average delivery time and shipping costs per city. Customer retention and churn rates are evaluated, while product profit margins and order cancellation comparisons are further analyzed. Additionally, the relationship between distance and shipping costs is explored. These analyses aim to support decision-making in e-commerce business strategies and operations.
